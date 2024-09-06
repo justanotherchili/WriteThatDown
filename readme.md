@@ -1,7 +1,7 @@
 # WriteThatDown
 
 ## Description
-Welcome to my app! This is a note taking App made using Python/Django for the backend and React/Javascript for the frontend. It allows users to quickly and easily add and delete notes. With this App, users can effortlessly write down and manage their thoughts and ideas for later!
+Welcome to my note taking app! Made using Python/Django for the backend and React/Javascript for the frontend. It allows users to quickly and easily add and delete notes. With this App, users can effortlessly write down and manage their thoughts and ideas for later!
 
 ## Installation and Setup Guide 
 ### Follow the steps below to set up the project locally.
